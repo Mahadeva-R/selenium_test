@@ -1,0 +1,38 @@
+INFO  2021-Dec-353 18:36:36  testFullyVaccinatedStates :27 - [Uttar Pradesh, Maharashtra, Gujarat]
+INFO  2021-Dec-353 18:36:36  onTestSuccess :14 -  Test case Passed : testFullyVaccinatedStates
+INFO  2021-Dec-353 18:37:16  testStateWiseCovidCasesCount :44 - Uttar Pradesh : 
+[Actual] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+[Expected] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+INFO  2021-Dec-353 18:37:16  testStateWiseCovidCasesCount :46 - Maharashtra : 
+[Actual] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+[Expected] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+INFO  2021-Dec-353 18:37:16  testStateWiseCovidCasesCount :48 - Gujarath : 
+[Actual] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+[Expected] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+INFO  2021-Dec-353 18:37:16  onTestSuccess :14 -  Test case Passed : testStateWiseCovidCasesCount
+
+INFO  2021-Dec-353 18:45:52  testFullyVaccinatedStates :27 - [Uttar Pradesh, Maharashtra, Gujarat]
+INFO  2021-Dec-353 18:45:52  onTestSuccess :14 -  Test case Passed : testFullyVaccinatedStates
+INFO  2021-Dec-353 18:46:32  testStateWiseCovidCasesCount :44 - Uttar Pradesh : 
+[Actual] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+[Expected] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+INFO  2021-Dec-353 18:46:32  testStateWiseCovidCasesCount :46 - Maharashtra : 
+[Actual] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+[Expected] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+INFO  2021-Dec-353 18:46:32  testStateWiseCovidCasesCount :48 - Gujarath : 
+[Actual] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+[Expected] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+INFO  2021-Dec-353 18:46:32  onTestSuccess :14 -  Test case Passed : testStateWiseCovidCasesCount
+
+INFO  2021-Dec-353 18:48:40  testFullyVaccinatedStates :27 - [Uttar Pradesh, Maharashtra, Gujarat]
+INFO  2021-Dec-353 18:48:40  onTestSuccess :14 -  Test case Passed : testFullyVaccinatedStates
+INFO  2021-Dec-353 18:49:20  testStateWiseCovidCasesCount :44 - Uttar Pradesh : 
+[Actual] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+[Expected] : {Confirmed Cases : =17,10,158, Active Cases : =107, Recovered Cases : =16,87,151, Diceased Cases : =22,900}
+INFO  2021-Dec-353 18:49:20  testStateWiseCovidCasesCount :46 - Maharashtra : 
+[Actual] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+[Expected] : {Confirmed Cases : =66,11,078, Active Cases : =16,658, Recovered Cases : =64,50,585, Diceased Cases : =1,40,216}
+INFO  2021-Dec-353 18:49:20  testStateWiseCovidCasesCount :48 - Gujarath : 
+[Actual] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+[Expected] : {Confirmed Cases : =8,26,577, Active Cases : =205, Recovered Cases : =8,16,283, Diceased Cases : =10,089}
+INFO  2021-Dec-353 18:49:20  onTestSuccess :14 -  Test case Passed : testStateWiseCovidCasesCount
